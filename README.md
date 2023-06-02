@@ -1,1 +1,1 @@
-a simple url for discord, fill in the information at the top of the spammer index and run start.bat.
+a simple url spammer for discord, open index.js, fill in the information and run start.bat.
